@@ -6,7 +6,6 @@ int main(void){
         //Definindo variáveis
         int a = 1, b = 10;
 
-
         //Contando até 10:
         while (a <=10){
 
@@ -26,13 +25,6 @@ int main(void){
             b--//b = b -1;
 
         }
-
-
-
-
-
-
-
 
 system("pause");
 }
